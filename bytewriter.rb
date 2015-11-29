@@ -1,4 +1,4 @@
-#!/Users/mredd/.rvm/rubies/ruby-1.9.3-p448/bin/ruby
+#!/usr/bin/ruby
 #
 
 puts "ByteWriter...."

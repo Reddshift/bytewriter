@@ -52,6 +52,8 @@ while(true)
     puts "Goodbye!"
     sleep(1)
     system "clear" or system "cls"
+  elsif exit.downcase == 'exit'
+    break
   else
     puts ''
   end
